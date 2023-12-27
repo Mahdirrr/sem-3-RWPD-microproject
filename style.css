@@ -62,3 +62,14 @@
     font-weight: 700;
     border-radius: 60px;
 }
+.btn1:hover{
+    background-color: yellowgreen;
+    transition: 0.5s;
+}
+h1{
+    font-weight: 700;
+}
+.card:hover{
+    box-shadow: -2px -1px 25px -4px;
+    transition: 0.5s;
+}
